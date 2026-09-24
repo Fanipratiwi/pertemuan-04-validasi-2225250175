@@ -1,8 +1,8 @@
 # Pertemuan 04 - Seleksi Multi-Kondisi dan Validasi Input
 
-- *Nama*: [Nama Anda]
-- *NIM*: [NIM Anda]
-- *Kelas*: [Kelas Anda]
+- *Nama*: [Fani Pratiwi Nur Indah]
+- *NIM*: [2225250175]
+- *Kelas*: [3B]
 
 ## Tujuan
 Membangun program validasi input (tipe, rentang, domain) dan klasifikasi multi-kondisi menggunakan rantai if-elif-else dalam bahasa Python.
